@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GUE CCR Checklist</string>
+
+    <string name="newChecklist">New CCR Checklist</string>
+    <string name="priorChecklists">View Prior Checklists</string>
+    <string name="prepTab">Prep</string>
+    <string name="assemblyTab">Assembly</string>
+    <string name="calibrationTab">Calibration</string>
+    <string name="supplyTab">Supply</string>
+    <string name="cell1_date">Cell1 Date</string>
+    <string name="mv_2">mV 2</string>
+    <string name="mvo2_mv_21xfo2_21">mVO2=mV.21xfO2÷.21</string>
+    <string name="mv_3">mV 3</string>
+    <string name="air_mv_range_9_13">Air mV Range(9-13)</string>
+    <string name="cell3_date">Cell3 Date</string>
+    <string name="cell2_date">Cell2 Date</string>
+    <string name="o2_cell_dates">O2 Cell Dates</string>
+    <string name="mv_1">mV 1</string>
+</resources>
